@@ -1,0 +1,1 @@
+# script_criar_imagem_docker_v2
